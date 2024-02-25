@@ -1,4 +1,4 @@
-# Text Embedding Project
+# Backend
 
 This project is a Python application that creates text embeddings using a specified model and stores them in an index for later use. It's intended for developers and data scientists working on natural language processing tasks.
 
